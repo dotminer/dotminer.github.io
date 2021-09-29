@@ -370,14 +370,14 @@ nav {
 
 .buy-contain-full {
     position: relative;
-    background-color: #ffffff;
+    background-color: #121212;
     border-radius: 20px;
     margin-top: 30px;
 }
 
 .buy-contain-left {
     min-height: 180px;
-    background-color: #ffffff;
+    background-color: #121212;
     border-radius: 20px;
     z-index: 1;
     height: 100%;
@@ -820,7 +820,7 @@ a:focus, a:hover {
 }
 
 .bg-teal{
-  background-color: #ffffff !important;
+  background-color: #121212 !important;
 }
 
 .border-teal{
@@ -897,7 +897,7 @@ tr {
 
 .modal-content {
     border: 1px solid #eaf0f2;
-    background-color: #ffffff;
+    background-color: #121212;
 }
 .table>thead>tr>th {
     border-bottom: none;
